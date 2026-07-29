@@ -1,2 +1,12 @@
-# Project exclude paths
+# Java build output
 /out/
+/target/
+*.class
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
